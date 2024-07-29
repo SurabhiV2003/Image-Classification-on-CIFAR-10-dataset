@@ -44,4 +44,6 @@ The CNN model was trained on the CIFAR-10 dataset and achieved the following res
   1. Training Accuracy: 87..49%
   2. Validation Accuracy: 97.04%
   3. Test Accuracy: 86.16%
+
+     
 These results indicate that the model is able to classify CIFAR-10 images with a reasonable level of accuracy. Further improvements can be made by experimenting with different architectures, hyperparameters, and data augmentation techniques.
